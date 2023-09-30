@@ -38,7 +38,7 @@ Considera el uso de \<div> para crear secciones o contenedores para tu contenido
 
 
 > page github 
-[Sesion 3](https://cokain3.github.io/sesion3/) 
+[Link Sesion 3](https://cokain3.github.io/sesion3/) 
 
 # codigo
 

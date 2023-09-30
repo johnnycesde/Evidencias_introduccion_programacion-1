@@ -16,7 +16,7 @@ Las páginas del sitio serán:
 - Contacto
 
 > page github
-[Sesion 2](https://cokain3.github.io/sesion2/) 
+[Link Sesion 2](https://cokain3.github.io/sesion2/) 
 
 
 # index.html
