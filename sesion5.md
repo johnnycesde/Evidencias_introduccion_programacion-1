@@ -28,10 +28,11 @@ __*Instrucciones:*__
 - Comentarios
 - Utilizar las etiquetas HTML apropiados para cada campo.
 
+## Solución
 >page github
 [Link Sesion 5](https://cokain3.github.io/sesion5/) 
 
-# Index.html
+### Index.html
 
 ~~~html
 
@@ -93,7 +94,7 @@ __*Instrucciones:*__
 
 ~~~
 
-# STYLO.CSS
+### STYLO.CSS
 
 ~~~css
 

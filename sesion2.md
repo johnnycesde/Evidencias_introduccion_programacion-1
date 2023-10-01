@@ -15,11 +15,12 @@ Las páginas del sitio serán:
 - Acerca
 - Contacto
 
+## Solución
 > page github
 [Link Sesion 2](https://cokain3.github.io/sesion2/) 
 
 
-# index.html
+### index.html
 
 ~~~html
 
@@ -61,7 +62,7 @@ Las páginas del sitio serán:
 
 ~~~
 
-# About.html
+### About.html
 
 ~~~html
 
@@ -108,7 +109,7 @@ Las páginas del sitio serán:
 
 ~~~
 
-# Contact.html
+### Contact.html
 
 ~~~html
 

@@ -17,22 +17,21 @@
 - Stock
 - Fecha de creación
 
+## Solución
 > page github 
 [Link Sesion 4](https://cokain3.github.io/sesion4/) 
 
 
-# CODIGO
+### CODIGO
 
 ~~~html
-
 <!DOCTYPE html>
-<!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Tablas</title>
 </head>
 
 <body>

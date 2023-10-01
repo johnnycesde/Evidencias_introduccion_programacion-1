@@ -36,11 +36,11 @@ Considera el uso de \<div> para crear secciones o contenedores para tu contenido
 
 
 
-
+## Solución
 > page github 
 [Link Sesion 3](https://cokain3.github.io/sesion3/) 
 
-# codigo
+### codigo
 
 ~~~html 
 
