@@ -16,6 +16,11 @@ Instrucciones:
 * En el archivo HTML, crea una estructura básica de página web con dos elementos div.
 * En el archivo CSS, define las propiedades de visualización y posicionamiento de los elementos div.
 
+## Solución
+
+>page github
+[Link Sesion 10](https://cokain3.github.io/sesion11/) 
+
 ~~~html
 <!DOCTYPE html>
 <html lang="es">
