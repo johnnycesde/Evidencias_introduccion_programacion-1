@@ -128,9 +128,15 @@ Enlace de entrega
 
 [Link Repositorio](https://github.com/cokain3/Evidencias_introduccion_programacion.git)
 
+[Link Sesion 12](https://cokain3.github.io/Evidencias_introduccion_programacion/) 
+
 > page github
 
-[Link Sesion 12](https://cokain3.github.io/Evidencias_introduccion_programacion/) 
+[Link Repositorio](https://cokain3.github.io/Evaluaci-nM2/)
+
+[Link Sesion 12](https://cokain3.github.io/Evaluaci-nM2/index.html) 
+
+
 
 
 
