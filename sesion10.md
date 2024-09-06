@@ -10,16 +10,14 @@
 
 __Aplicar las propiedades de posicionamiento de CSS para crear diferentes efectos de visualización.__
 
-Instrucciones:
-
-* Crea un nuevo archivo HTML y CSS.
+vo HTML y CSS.
 * En el archivo HTML, crea una estructura básica de página web con dos elementos div.
-* En el archivo CSS, define las propiedades de visualización y posicionamiento de los elementos div.
+* En el archivo CSS, define las propiedades de visualización y posicionamiento de los elementos Instrucciones:
+
+* Crea un nuevo archidiv.
 
 ## Solución
 
->page github
-[Link Sesion 10](https://cokain3.github.io/sesion11/) 
 
 ~~~html
 <!DOCTYPE html>
